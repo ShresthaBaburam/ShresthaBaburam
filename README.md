@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShresthaBaburam and my real name is Baburam Shrestha
-- 👀 I’m interested in  web design and data science
-- 🌱 I’m currently learning  python django full stack developing
-- 💞️ I’m looking to collaborate on company who develop web and design the web 
+- 👋 Hi, I’m @ShresthaBaburam and my real name is Baburam Shrestha.
+- 👀 I’m interested in  web design and data science.
+- 🌱 I’m currently learning  python and django.
+- 💞️ I’m looking to collaborate on company who design ad develop the web baesd application.
 - 📫 How to reach me ... please email me at shrestha.baburam1997@gamil.com or contact me at +9779846871406
 
 <!---
